@@ -2,7 +2,7 @@
 * **Fecha y lugar**: 30 Abril 2022. [PyConUS 2022 Salt Lake City, Utah, Estados Unidos](https://us.pycon.org/2022)
 * **Link presentacion:** https://us.pycon.org/2022/schedule/presentation/10/
 * **Nivel**: Desde Principiantes  - **Contexto**: Remoto, OnLine y Presencial
-* **Disertantes**: [Sofía Martin](https://github.com/entrerrianas/pyconus2022), [Ariel Ramos](https://github.com/asnramos), Liliana Hurtado, [Enzo Juarez](https://github.com/enzzo19/)
+* **Disertantes**: [Sofía Martin](https://github.com/entrerrianas), [Ariel Ramos](https://github.com/asnramos), Liliana Hurtado, [Enzo Juarez](https://github.com/enzzo19/)
 * **Título**: Python + VPS Jupyter HUB/Notebook: Como aprender, enseñar, investigar, trabajar de manera colaborativa, remota y presencial.
 * **Descripción (Resumen):** 
 
