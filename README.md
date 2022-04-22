@@ -1,5 +1,5 @@
 ## Charla
-* **Fecha**: 30 Abril 2022
+* **Fecha y lugar**: 30 Abril 2022. [PyConUS 2022 Salt Lake City, Utah, Estados Unidos](https://us.pycon.org/2022)
 * **Título**: Python + VPS Jupyter HUB/Notebook: Como aprender, enseñar, investigar, trabajar de manera colaborativa, remota y presencial.
 * **Descripción (Resumen):** 
 
@@ -21,12 +21,11 @@ VPS == Servidor Privado Virtual (Virtual Private Server)
   - Tambien se pudo formar Jovenes Investigadores de la Universidad de Salta en disciplinas No relacionadas a Tecnologia.<br>
   - Notebooks de ejemplos desarrollados: https://github.com/asnramos/pycon_ar
 
-* **Lugar**: PyconUS Estados Unidos, 2022
 * **Tipo**: Charla
+* **Link presentacion:** https://us.pycon.org/2022/schedule/presentation/10/
 * **Nivel**: Desde Principiantes
-* **Disertantes**: Sofía Martin, Ariel Ramos, Liliana Hurtado, Enzo Juarez
+* **Disertantes**: [Sofía Martin](https://github.com/entrerrianas/pyconus2022), [Ariel Ramos](https://github.com/asnramos), Liliana Hurtado, [Enzo Juarez](https://github.com/enzzo19/)
 * **Contexto**: Remoto, OnLine y Presencial
-* **Visualización**: [Diversas opciones](https://github.com/entrerrianas/pyconus2022)
 * **Videos Ayuda Memoria:** para quienes esten iniciando en Jupyter Notebook y trabajar en un VPS. Gracias a Enzo Juarez [@enzzo19](https://github.com/enzzo19/)
 
   - ¿Como Puedo Iniciar/Cerrar sesión en mi Plataforma Digital? https://youtu.be/uIE-PpvS_Pw
