@@ -1,4 +1,4 @@
-## Charla: Python + VPS Jupyter HUB/Notebook. Como aprender, enseñar, investigar, trabajar de manera colaborativa, remota y presencial
+## Charla: Python + VPS Jupyter HUB/Notebook, aprender, enseñar, investigar, trabajar de manera colaborativa, remota y presencial
 * **Fecha y lugar**: 30 Abril 2022. [PyConUS 2022 Salt Lake City, Utah, Estados Unidos](https://us.pycon.org/2022)
 * **Link presentacion:** https://us.pycon.org/2022/schedule/presentation/10/
 * **Nivel**: Desde Principiantes  - **Contexto**: Remoto, OnLine y Presencial
