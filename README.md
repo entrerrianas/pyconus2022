@@ -1,14 +1,30 @@
 ## Charla
-* **Fecha**: 29 Octubre 2021
+* **Fecha**: 30 Abril 2022
 * **Título**: Programar y Reprogramar Recursos para Docentes (Python + Jupyter)
-* **Resumen**: En este taller queremos compartir la experiencia de resolver programando en un lenguaje como Python los recursos de enseñanza para docentes de distintos niveles, también usamos un FrameWork como Proyecto Jupyter y su infraestructura (VPS) la cual nos permite una mejor interactividad con el Docente en el uso de los recursos programados y reprogramados.
-* **Lugar**: Pycon Argentina, 2021
+* **Resumen**: 
+Desde 2017 en el Norte Argentino, realizamos actividades con experiencias en tecnologia de impacto positivo para la sociedad, lo hacemos con la Comunidad Python Norte. Enseñamos a los asistentes buenas practicas de uso en tecnologia y Software Open Source.
+Combinamos 3 componentes para lograr un ambiente de tecnologia seguro y practico en estas experiencias piloto educativas, de manera remota, durante la pandemia COVID19.
+Los 3 componentes:
+
+Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == Python + Project Jupyter + VPS (Jupyter HUB/Notebook).
+
+VPS == Servidor Privado Virtual (Virtual Private Server)
+
+Tuvimos en cuenta los conocimientos tecnicos basicos de los interesados, entonces decidimos implementar/instalar en un VPS todos los componentes necesarios (Python + Librerias + Plugins de Jupyter + Widgets), asi ellos aprenden directamente.
+Iniciamos con programacion, luego con experiencias piloto programando Jupyters Notebooks para enseñar Matematicas, Fisica, Robotica, armamos los notebooks con lo justo y necesario de programacion, ayudandonos de Widgets y Graficas.
+A medida que avanzamos, armamos Jupyter Notebooks en materias de No Calculo.
+Logramos una buena practica y dinamica en la asistencia de aprendizaje en el uso del VPS y la enseñanza de conceptos de materias en las que logramos armar/programar Jupyter Notebooks.
+Los interesados fueron Docentes, Alumnos, Particulares.
+Se hizo de manera remota, tambien tuvimos experiencias en forma presencial.
+Generamos nuestros notebook como recursos.
+Tambien se pudo formar Jovenes Investigadores de la Universidad de Salta en disciplinas No relacionadas a Tecnologia.
+Notebooks de ejemplos desarrollados: https://github.com/asnramos/pycon_ar
+* **Lugar**: PyconUS Estados Unidos, 2022
 * **Tipo**: Taller
 * **Nivel**: Principiante
 * **Disertantes**: Sofía Martin, Ariel Ramos, Liliana Hurtado, Sebastián Flores Benner
 * **Contexto**: 
-* **Visualización**: [Diversas opciones](https://sebastiandres.github.io/pycon_ar)
-
+* **Visualización**: [Diversas opciones](https://github.com/entrerrianas/pyconus2022)
 Enlaces útiles:
 Videos Ayuda Memoria: para quienes esten iniciando con Jupyter Notebook y en acceder a usar un VPS, 
 gracias a Enzo Juarez - [@enzzo19](https://github.com/enzzo19/):
@@ -26,4 +42,3 @@ gracias a Enzo Juarez - [@enzzo19](https://github.com/enzzo19/):
 
 Otros videos:
 * ¿Cómo armar un VPS? https://youtu.be/P8w0OtG2Rdw
-* Grabación del taller: https://www.youtube.com/watch?v=L-j9vZdgAOs
