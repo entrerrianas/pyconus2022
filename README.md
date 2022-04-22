@@ -25,11 +25,11 @@ Notebooks de ejemplos desarrollados: https://github.com/asnramos/pycon_ar
 * **Tipo**: Charla
 * **Nivel**: Desde Principiantes
 * **Disertantes**: Sofía Martin, Ariel Ramos, Liliana Hurtado, Enzo Juarez
-* **Contexto**: 
+* **Contexto**: Remoto, OnLine y Presencial
 * **Visualización**: [Diversas opciones](https://github.com/entrerrianas/pyconus2022)
-* **Enlaces útiles**:
-Videos Ayuda Memoria: para quienes esten iniciando con Jupyter Notebook y en acceder a usar un VPS, 
+* **Enlaces útiles**: Videos Ayuda Memoria:  para quienes esten iniciando con Jupyter Notebook y en acceder a usar un VPS,
 gracias a Enzo Juarez - [@enzzo19](https://github.com/enzzo19/):
+
 * ¿Como Puedo Iniciar/Cerrar sesión en mi Plataforma Digital? https://youtu.be/uIE-PpvS_Pw
 * ¿Como puedo cambiar el idioma por defecto en mi Plataforma Digital? https://youtu.be/lq1oZHkJ7pE
 * ¿Como puedo crear un nuevo cuaderno de Jupyter? https://youtu.be/86Xz4e-LCuY
@@ -42,9 +42,14 @@ gracias a Enzo Juarez - [@enzzo19](https://github.com/enzzo19/):
 * ¿Existe un orden de ejecucion dentro de mi cuaderno? https://youtu.be/Pfu__JzoaDg
 * ¿Que hago si me sale de un Error de Conexión?  https://youtu.be/UCDmdZnjtko
 
-Otros videos:
-* ¿Cómo armar un VPS? https://youtu.be/P8w0OtG2Rdw
-Presentacion para iniciar en Ciencias de Datos, SciPy LA 2021 Recife, Brasil (OnLine)
-https://youtu.be/wFdrA20_5qo
-https://conf.scipy.lat/grade-programacao/#ariel-ramos
-https://conf.scipy.lat
+**Otros videos:**
+
+* Diciembre 2021, Taller OnLine: Iniciar en Ciencias de Datos, SciPy LA 2021 Recife, Brasil
+* https://youtu.be/wFdrA20_5qo
+* https://conf.scipy.lat/grade-programacao/#ariel-ramos
+* https://conf.scipy.lat
+
+* Marzo 2021, Taller OnLine: ¿Cómo armar un VPS? https://youtu.be/P8w0OtG2Rdw
+
+* October 2020, Taller OnLine: Introduccion a Jupyter en un VPS y como resolver ecuaciones con Sympy
+https://youtu.be/X5xk-LOLylU
