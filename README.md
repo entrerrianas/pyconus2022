@@ -7,11 +7,11 @@
 
   - Desde 2017 en el Norte Argentino, realizamos actividades con experiencias en tecnologia de impacto positivo para la sociedad, lo hacemos con la Comunidad Python Norte. Enseñamos a los asistentes buenas practicas de uso en tecnologia y Software Open Source.<br>
 Combinamos 3 componentes para lograr un ambiente de tecnologia seguro y practico en estas experiencias piloto educativas, de manera remota, durante la pandemia COVID19.<br><br>
-Los 3 componentes:
+**Los 3 componentes:**
 <br><br>
-Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == Python + Project Jupyter + VPS (Jupyter HUB/Notebook).
+Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Project Jupyter + VPS (Jupyter HUB/Notebook)**
 <br><br>
-VPS == Servidor Privado Virtual (Virtual Private Server)
+**VPS** == Servidor Privado Virtual (Virtual Private Server)
 <br><br>
   - Tuvimos en cuenta los conocimientos tecnicos basicos de los interesados, entonces decidimos implementar/instalar en un VPS todos los componentes necesarios (Python + Librerias + Plugins de Jupyter + Widgets), asi ellos aprenden directamente.<br>
   - Iniciamos con programacion, luego con experiencias piloto programando Jupyters Notebooks para enseñar Matematicas, Fisica, Robotica, armamos los notebooks con lo justo y necesario de programacion, ayudandonos de Widgets y Graficas.<br>
