@@ -22,10 +22,10 @@ Notebooks de ejemplos desarrollados: https://github.com/asnramos/pycon_ar
 * **Lugar**: PyconUS Estados Unidos, 2022
 * **Tipo**: Taller
 * **Nivel**: Principiante
-* **Disertantes**: Sofía Martin, Ariel Ramos, Liliana Hurtado, Sebastián Flores Benner
+* **Disertantes**: Sofía Martin, Ariel Ramos, Liliana Hurtado
 * **Contexto**: 
 * **Visualización**: [Diversas opciones](https://github.com/entrerrianas/pyconus2022)
-Enlaces útiles:
+* **Enlaces útiles**:
 Videos Ayuda Memoria: para quienes esten iniciando con Jupyter Notebook y en acceder a usar un VPS, 
 gracias a Enzo Juarez - [@enzzo19](https://github.com/enzzo19/):
 * ¿Como Puedo Iniciar/Cerrar sesión en mi Plataforma Digital? https://youtu.be/uIE-PpvS_Pw
