@@ -1,7 +1,8 @@
 ## Charla
 * **Fecha**: 30 Abril 2022
-* **Título**: Programar y Reprogramar Recursos para Docentes (Python + Jupyter)
+* **Título**: Python + VPS Jupyter HUB/Notebook: Como aprender, enseñar, investigar, trabajar de manera colaborativa, remota y presencial.
 * **Resumen**: 
+
 Desde 2017 en el Norte Argentino, realizamos actividades con experiencias en tecnologia de impacto positivo para la sociedad, lo hacemos con la Comunidad Python Norte. Enseñamos a los asistentes buenas practicas de uso en tecnologia y Software Open Source.
 Combinamos 3 componentes para lograr un ambiente de tecnologia seguro y practico en estas experiencias piloto educativas, de manera remota, durante la pandemia COVID19.
 Los 3 componentes:
@@ -19,10 +20,11 @@ Se hizo de manera remota, tambien tuvimos experiencias en forma presencial.
 Generamos nuestros notebook como recursos.
 Tambien se pudo formar Jovenes Investigadores de la Universidad de Salta en disciplinas No relacionadas a Tecnologia.
 Notebooks de ejemplos desarrollados: https://github.com/asnramos/pycon_ar
+
 * **Lugar**: PyconUS Estados Unidos, 2022
-* **Tipo**: Taller
-* **Nivel**: Principiante
-* **Disertantes**: Sofía Martin, Ariel Ramos, Liliana Hurtado
+* **Tipo**: Charla
+* **Nivel**: Desde Principiantes
+* **Disertantes**: Sofía Martin, Ariel Ramos, Liliana Hurtado, Enzo Juarez
 * **Contexto**: 
 * **Visualización**: [Diversas opciones](https://github.com/entrerrianas/pyconus2022)
 * **Enlaces útiles**:
@@ -42,3 +44,7 @@ gracias a Enzo Juarez - [@enzzo19](https://github.com/enzzo19/):
 
 Otros videos:
 * ¿Cómo armar un VPS? https://youtu.be/P8w0OtG2Rdw
+Presentacion para iniciar en Ciencias de Datos, SciPy LA 2021 Recife, Brasil (OnLine)
+https://youtu.be/wFdrA20_5qo
+https://conf.scipy.lat/grade-programacao/#ariel-ramos
+https://conf.scipy.lat
