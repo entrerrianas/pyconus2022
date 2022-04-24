@@ -65,3 +65,13 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
 
 **Fernando Perez, creador IPython (Base del Proyecto Jupyter):**
 * https://es.wikipedia.org/wiki/Fernando_P%C3%A9rez_(programador)
+
+**Bibliografia OnLine**
+* IPython Cookbook, Second Edition (2018): https://ipython-books.github.io/
+* Capitulo 3.3. Mastering widgets in the Jupyter Notebook: https://ipython-books.github.io/33-mastering-widgets-in-the-jupyter-notebook/
+* Autor: Cyrille Rossant, Phd : https://cyrille.rossant.net/
+
+**Webs recomendadas**
+* Learning Scientific Programming with Python: https://scipython.com/
+* Scipy Lecture Notes. One document to learn numerics, science, and data with Python:
+* https://scipy-lectures.org/ 
