@@ -25,16 +25,16 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
 
 * **Videos Ayuda Memoria:** para quienes esten iniciando en Jupyter Notebook y trabajar en un VPS. Gracias a Enzo Juarez [@enzzo19](https://github.com/enzzo19/)
 
-  - ¿Como Puedo Iniciar/Cerrar sesión en mi Plataforma Digital? https://youtu.be/uIE-PpvS_Pw
-  - ¿Como puedo cambiar el idioma por defecto en mi Plataforma Digital? https://youtu.be/lq1oZHkJ7pE
-  - ¿Como puedo crear un nuevo cuaderno de Jupyter? https://youtu.be/86Xz4e-LCuY
+  - ¿Como Puedo Iniciar/Cerrar sesión en un VPS con Jupyter HUB/Notebook? https://youtu.be/uIE-PpvS_Pw
+  - ¿Como puedo cambiar el idioma por defecto en un VPS con Jupyter HUB/Notebook? https://youtu.be/lq1oZHkJ7pE
+  - ¿Como puedo crear un nuevo cuaderno de Jupyter Notebook/LAB? https://youtu.be/86Xz4e-LCuY
   - ¿Como puedo borrar un archivo? https://youtu.be/U6fiQeUV2Ks
-  - ¿Como puedo subir un nuevo archivo a mi Plataforma Digital? https://youtu.be/PjBvtlHXYOU
-  - ¿Como puedo crear una nueva carpeta dentro de mi Plataforma Digital? https://youtu.be/TrcqYBxpf24
-  - ¿Como puedo mover un archivo a otra carpeta dentro de mi Plataforma Digital? https://youtu.be/QwiwHaJVVJs
-  - ¿Como guardar un Archivo dentro de mi Plataforma Digital? https://youtu.be/TEUCMLqqkI4
-  - ¿Como puedo ejecutar las celdas de codigo de mi cuaderno? https://youtu.be/UoBj56InY3M
-  - ¿Existe un orden de ejecucion dentro de mi cuaderno? https://youtu.be/Pfu__JzoaDg
+  - ¿Como puedo subir un nuevo archivo en un VPS con Jupyter HUB/Notebook? https://youtu.be/PjBvtlHXYOU
+  - ¿Como puedo crear una nueva carpeta dentro de un VPS con Jupyter HUB/Notebook? https://youtu.be/TrcqYBxpf24
+  - ¿Como puedo mover un archivo a otra carpeta dentro de un VPS con Jupyter HUB/Notebook? https://youtu.be/QwiwHaJVVJs
+  - ¿Como guardar un Archivo dentro de un VPS con Jupyter HUB/Notebook? https://youtu.be/TEUCMLqqkI4
+  - ¿Como puedo ejecutar las celdas de codigo de mi cuaderno o Notebook de Jupyter? https://youtu.be/UoBj56InY3M
+  - ¿Existe un orden de ejecucion dentro de mi cuaderno o Notebook de Jupyter? https://youtu.be/Pfu__JzoaDg
   - ¿Que hago si me sale de un Error de Conexión?  https://youtu.be/UCDmdZnjtko
 
 **Talleres OnLine realizados:**
