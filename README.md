@@ -49,7 +49,7 @@ Lenguaje de Programación + Entorno de Trabajo + Infraestructura == **Python + P
 * **October 2021: Taller OnLine: PyConAr 2021 OnLine, Rosario de Santa Fe, Argentina**
   - https://www.youtube.com/watch?v=L-j9vZdgAOs
   - https://eventos.python.org.ar/events/pyconar2021/activity/478/
-  - [Sofía Martin](https://github.com/entrerrianas), [Sebastian Flores Benner](https://github.com/sebastiandres/pycon_ar), Liliana Hurtado, [Ariel Ramos](https://github.com/asnramos)
+  - [Sofía Martin](https://github.com/entrerrianas), [Sebastian Flores Benner](https://github.com/sebastiandres/pycon_ar), Liliana Hurtado, [Ariel Ramos](https://github.com/asnramos/pycon_ar)
 
 * **Marzo 2021, Taller OnLine Salta, Argentina: ¿Cómo armar un VPS?** 
   - https://youtu.be/P8w0OtG2Rdw
