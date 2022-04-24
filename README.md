@@ -56,7 +56,7 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
 
 * **October 2020, Taller OnLine LATAM: Introduccion a Jupyter en un VPS y como resolver ecuaciones con Sympy**
   - https://youtu.be/X5xk-LOLylU
-  - Desarrollado por: Juan Luis Cano Rodriguez (desde España), Lucy Jimenez (Colombia), Nicolas Quiroz (Argentina, BsAs), Ariel Silvio Norberto Ramos (Argentina, Norte), Angelica Landazabal (Venezuela), Alexis Carrillo (Colombia), Augusto Kiel (Argentina, BsAs), Yamil Jaskolowsky (Argentina, Patagonia)
+  - Desarrollado por: **Juan Luis Cano Rodriguez** (desde España), **Lucy Jimenez** (Colombia), **Nicolas Quiroz** (Argentina, BsAs), **Ariel Silvio Norberto Ramos** (Argentina, Norte), **Angelica Landazabal** (Venezuela), **Alexis Carrillo** (Colombia), **Augusto Kiel** (Argentina, BsAs), **Yamil Jaskolowsky** (Argentina, Patagonia)
 
 **Web Proyecto Jupyter:** https://jupyter.org/
 * Descripcion Proyecto Jupyter: https://es.wikipedia.org/wiki/Proyecto_Jupyter
