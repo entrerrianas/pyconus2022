@@ -72,6 +72,8 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
   - Autor: Cyrille Rossant, Phd : https://cyrille.rossant.net/
 
 **Webs recomendadas**
+* Teaching and Learning with Jupyter: 
+  - https://jupyter4edu.github.io/jupyter-edu-book/
 * Learning Scientific Programming with Python: https://scipython.com/
 * Scipy Lecture Notes. One document to learn numerics, science, and data with Python:
-  - https://scipy-lectures.org/ 
+  - https://scipy-lectures.org/
