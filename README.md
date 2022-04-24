@@ -42,12 +42,13 @@ Lenguaje de Programación + Entorno de Trabajo + Infraestructura == **Python + P
 
 * **Diciembre 2021, Taller OnLine: Iniciar en Ciencias de Datos, SciPy LA 2021 Recife, Brasil**
   - https://youtu.be/wFdrA20_5qo
+  - https://conf.scipy.lat
   - https://conf.scipy.lat/grade-programacao/#nico-quiroz
   - https://conf.scipy.lat/grade-programacao/#ariel-ramos
-  - https://conf.scipy.lat
 
 * **October 2021: Taller OnLine: PyConAr 2021 OnLine, Rosario de Santa Fe, Argentina**
   - https://www.youtube.com/watch?v=L-j9vZdgAOs
+  - https://eventos.python.org.ar/events/pyconar2021/
   - https://eventos.python.org.ar/events/pyconar2021/activity/478/
   - [Sofía Martin](https://github.com/entrerrianas), [Sebastian Flores Benner](https://github.com/sebastiandres/pycon_ar), Liliana Hurtado, [Ariel Ramos](https://github.com/asnramos/pycon_ar)
 
