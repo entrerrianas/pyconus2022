@@ -50,6 +50,7 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
 
 * **Marzo 2021, Taller OnLine Salta, Argentina: ¿Cómo armar un VPS?** 
   - https://youtu.be/P8w0OtG2Rdw
+  - Desarrollado por: **Juan Luis Cano Rodriguez** (desde España) [@astrojuanlu](https://github.com/astrojuanlu) 
 
 * **October 2020, Taller OnLine LATAM: Introduccion a Jupyter en un VPS y como resolver ecuaciones con Sympy**
   - https://youtu.be/X5xk-LOLylU
