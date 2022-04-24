@@ -9,31 +9,32 @@
   - Combinamos 3 componentes para lograr un ambiente de tecnologia seguro y practico en estas experiencias piloto educativas, de manera remota, durante la pandemia COVID19.<br><br>
 **Los 3 componentes:**
 <br><br>
-Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Project Jupyter + VPS (Jupyter HUB/Notebook)**
+Lenguaje de Programación + Entorno de Trabajo + Infraestructura == **Python + Project Jupyter + VPS (Jupyter HUB/Notebook)**
 <br><br>
 **VPS** == Servidor Privado Virtual (Virtual Private Server)
 <br><br>
-  - Tuvimos en cuenta los conocimientos tecnicos basicos de los interesados, entonces decidimos implementar/instalar en un VPS todos los componentes necesarios (Python + Librerias + Plugins de Jupyter + Widgets), asi ellos aprenden directamente.<br>
-  - Iniciamos con programacion, luego con experiencias piloto programando Jupyters Notebooks para enseñar Matematicas, Fisica, Robotica, armamos los notebooks con lo justo y necesario de programacion, ayudandonos de Widgets y Graficas.<br>
-  - A medida que avanzamos, armamos Jupyter Notebooks en materias de No Calculo.<br>
-  - Logramos una buena practica y dinamica en la asistencia de aprendizaje en el uso del VPS y la enseñanza de conceptos de materias en las que logramos armar/programar Jupyter Notebooks.<br>
+  - Tuvimos en cuenta los conocimientos técnicos básicos de los interesados, entonces decidimos implementar/instalar en un VPS todos los componentes necesarios (Python + Librerias + Plugins de Jupyter + Widgets), asi ellos aprenden directamente.<br>
+  - Iniciamos con programación, luego con experiencias piloto programando Jupyters Notebooks para enseñar Matemáticas, Física, Robótica, armamos los notebooks con conceptos báicos de programación, ayudándonos de Widgets y Gráficas.<br>
+  - A medida que avanzamos, armamos Jupyter Notebooks de contenidos de materias además de las que incluyen cálculos mateḿaticos.<br>
+  - Logramos una buena práctica y dinámica en la asistencia de aprendizaje en el uso del VPS y la enseñanza de conceptos de materias en las que logramos armar/programar Jupyter Notebooks.<br>
   - Los interesados fueron Docentes, Alumnos, Particulares.<br>
-  - Se hizo de manera remota, tambien tuvimos experiencias en forma presencial.<br>
-  - Generamos nuestros notebook como recursos.<br>
-  - Tambien se pudo formar Jovenes Investigadores de la Universidad de Salta en disciplinas No relacionadas a Tecnologia.<br>
+  - Se hizo de manera remota, también tuvimos experiencias en forma presencial.<br>
+  - Generamos nuestros notebooks como recursos.<br>
+  - Se pudo formar Jóvenes Investigadores de la Universidad de Salta en disciplinas No relacionadas a Tecnología.<br>
   - Notebooks de ejemplos desarrollados: https://github.com/asnramos/pycon_ar
+  - Desde la Facultad de Informática de La Plta (UNLP) se viene trabajando con escuelas de los diferentes niveles en propuestas que permitan incorporar contenidos de las Ciencias de la Computación a través de diferentes proyectos como uso de aplicaciones educativas libres (https://lihuen.linti.unlp.edu.ar/index.php?title=Software_Libre_en_escuelas), [robótica](http://robots.linti.unlp.edu.ar/proyecto) para inicar la programación y proyectos de extensión para diferentes [niveles ](https://extension.info.unlp.edu.ar/). Desde el vínculo que se realizó desde la comuncidad de Python Argentina, hemos vinculado los proyectos realizados desde La Plata con los llevados a cabo en Salta. Esta charla fue producto del trabajo conjunto e interdisplinario para su adecuación a docentes de escuelas de Nivel Secundario.
 
 * **Videos Ayuda Memoria:** para quienes esten iniciando en Jupyter Notebook y trabajar en un VPS. Gracias Enzo Juarez..!! [@enzzo19](https://github.com/enzzo19/)
 
-  - ¿Como Puedo **Iniciar/Cerrar sesión** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/uIE-PpvS_Pw
-  - ¿Como puedo **cambiar el idioma** por defecto en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/lq1oZHkJ7pE
-  - ¿Como puedo **crear** un **nuevo cuaderno** de **Jupyter Notebook/LAB**? https://youtu.be/86Xz4e-LCuY
-  - ¿Como puedo **borrar** un **archivo**? https://youtu.be/U6fiQeUV2Ks
-  - ¿Como puedo **subir** un nuevo **archivo** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/PjBvtlHXYOU
-  - ¿Como puedo **crear** una nueva **carpeta** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/TrcqYBxpf24
-  - ¿Como puedo **mover** un **archivo a otra carpeta** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/QwiwHaJVVJs
-  - ¿Como **guardar un Archivo** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/TEUCMLqqkI4
-  - ¿Como puedo **ejecutar las celdas de codigo de mi cuaderno o Notebook de Jupyter**? https://youtu.be/UoBj56InY3M
+  - ¿Cómo puedo **Iniciar/Cerrar sesión** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/uIE-PpvS_Pw
+  - ¿Cómo puedo **cambiar el idioma** por defecto en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/lq1oZHkJ7pE
+  - ¿Cómo puedo **crear** un **nuevo cuaderno** de **Jupyter Notebook/LAB**? https://youtu.be/86Xz4e-LCuY
+  - ¿Cómo puedo **borrar** un **archivo**? https://youtu.be/U6fiQeUV2Ks
+  - ¿Cómo puedo **subir** un nuevo **archivo** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/PjBvtlHXYOU
+  - ¿Cómo puedo **crear** una nueva **carpeta** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/TrcqYBxpf24
+  - ¿Cómo puedo **mover** un **archivo a otra carpeta** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/QwiwHaJVVJs
+  - ¿Cómo **guardar un Archivo** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/TEUCMLqqkI4
+  - ¿Cómo puedo **ejecutar las celdas de codigo de mi cuaderno o Notebook de Jupyter**? https://youtu.be/UoBj56InY3M
   - ¿Existe un **orden de ejecucion** en mi **cuaderno o Notebook de Jupyter**? https://youtu.be/Pfu__JzoaDg
   - ¿Que hago **si sale un Error de Conexión**?  https://youtu.be/UCDmdZnjtko
 
