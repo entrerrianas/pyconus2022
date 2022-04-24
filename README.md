@@ -48,6 +48,7 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
 * **October 2021: Taller OnLine: PyConAr 2021 OnLine, Rosario de Santa Fe, Argentina**
   - https://www.youtube.com/watch?v=L-j9vZdgAOs
   - https://eventos.python.org.ar/events/pyconar2021/activity/478/
+  - [Sofía Martin](https://github.com/entrerrianas), [Sebastian Flores Benner](https://github.com/sebastiandres/pycon_ar), Liliana Hurtado, [Ariel Ramos](https://github.com/asnramos)
 
 * **Marzo 2021, Taller OnLine Salta, Argentina: ¿Cómo armar un VPS?** 
   - https://youtu.be/P8w0OtG2Rdw
@@ -55,6 +56,7 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
 
 * **October 2020, Taller OnLine LATAM: Introduccion a Jupyter en un VPS y como resolver ecuaciones con Sympy**
   - https://youtu.be/X5xk-LOLylU
+  - Desarrollado por **Juan Luis Cano Rodriguez** (desde España) [@astrojuanlu](https://github.com/astrojuanlu), Lucy Jimenez (Colombia), Nicolas Quiroz (Argentina), Ariel Silvio Norberto Ramos (Argentina), Angelica Landazabal (Venezuela), Alexis Carrillo (Colombia) 
 
 **Web Proyecto Jupyter:** https://jupyter.org/
 * Descripcion Proyecto Jupyter: https://es.wikipedia.org/wiki/Proyecto_Jupyter
