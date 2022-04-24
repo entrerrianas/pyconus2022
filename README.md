@@ -41,6 +41,7 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
 
 * **Diciembre 2021, Taller OnLine: Iniciar en Ciencias de Datos, SciPy LA 2021 Recife, Brasil**
   - https://youtu.be/wFdrA20_5qo
+  - https://conf.scipy.lat/grade-programacao/#nico-quiroz
   - https://conf.scipy.lat/grade-programacao/#ariel-ramos
   - https://conf.scipy.lat
 
@@ -50,7 +51,7 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
 
 * **Marzo 2021, Taller OnLine Salta, Argentina: ¿Cómo armar un VPS?** 
   - https://youtu.be/P8w0OtG2Rdw
-  - Desarrollado por: **Juan Luis Cano Rodriguez** (desde España) [@astrojuanlu](https://github.com/astrojuanlu) 
+  - Desarrollado por **Juan Luis Cano Rodriguez** (desde España) [@astrojuanlu](https://github.com/astrojuanlu) 
 
 * **October 2020, Taller OnLine LATAM: Introduccion a Jupyter en un VPS y como resolver ecuaciones con Sympy**
   - https://youtu.be/X5xk-LOLylU
