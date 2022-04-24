@@ -53,3 +53,10 @@ Lenguaje de Programacion + Entorno de Trabajo + Infraestructura == **Python + Pr
 
 * **October 2020, Taller OnLine LATAM: Introduccion a Jupyter en un VPS y como resolver ecuaciones con Sympy**
   - https://youtu.be/X5xk-LOLylU
+
+**Web Proyecto Jupyter:** https://jupyter.org/
+* Descripcion Proyecto Jupyter: https://es.wikipedia.org/wiki/Proyecto_Jupyter
+* Descripcion IPython : https://es.wikipedia.org/wiki/IPython
+
+**Fernando Perez, creador IPython (Base del Proyecto Jupyter):**
+* https://es.wikipedia.org/wiki/Fernando_P%C3%A9rez_(programador)
