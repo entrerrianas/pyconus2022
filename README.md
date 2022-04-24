@@ -5,7 +5,7 @@
 * **Disertantes**: [Sofía Martin](https://github.com/entrerrianas), [Ariel Ramos](https://github.com/asnramos), Liliana Hurtado, [Enzo Juarez](https://github.com/enzzo19/)
 * **Descripción (Resumen):** 
 
-  - Desde 2017 en el Norte Argentino, realizamos actividades con experiencias en tecnologia de impacto positivo para la sociedad, lo hacemos con la Comunidad Python Norte y Argentina. Enseñamos a los asistentes buenas practicas de uso en tecnologia y Software Open Source.<br>
+  - Desde 2017 en el Norte Argentino, realizamos actividades con experiencias en tecnologia de impacto positivo para la sociedad, lo hacemos con la Comunidad Python Norte y Python Argentina. Enseñamos a los asistentes buenas practicas de uso en tecnologia y Software Open Source.<br>
   - Combinamos 3 componentes para lograr un ambiente de tecnologia seguro y practico en estas experiencias piloto educativas, de manera remota, durante la pandemia COVID19.<br><br>
 **Los 3 componentes:**
 <br><br>
