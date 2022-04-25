@@ -2,7 +2,7 @@
 * **Fecha y lugar**: 30 Abril 2022. [PyConUS 2022 Salt Lake City, Utah, Estados Unidos](https://us.pycon.org/2022)
 * **Link presentacion:** https://us.pycon.org/2022/schedule/presentation/10/
 * **Nivel**: Desde Principiantes  - **Contexto**: Remoto, OnLine y Presencial
-* **Disertantes**: [Sofía Martin](https://github.com/entrerrianas), [Ariel Ramos](https://github.com/asnramos), Liliana Hurtado, [Enzo Juarez](https://github.com/enzzo19/)
+* **Disertantes**: [Sofía Martin](https://github.com/entrerrianas), [Ariel Ramos](https://github.com/asnramos), [Liliana Hurtado](https://us.pycon.org/2022/speaker/profile/185/), [Enzo Juarez](https://github.com/enzzo19/)
 * **Descripción (Resumen):** 
 
   - Desde 2017 en el Norte Argentino, realizamos actividades con experiencias en tecnologia de impacto positivo para la sociedad, lo hacemos con la Comunidades [Python Norte](https://t.me/pythonnorte) y [Python Argentina](https://www.python.org.ar/). Enseñamos a los asistentes buenas practicas de uso en tecnologia y Software Open Source.<br>
@@ -24,16 +24,17 @@ Lenguaje de Programación + Entorno de Trabajo + Infraestructura == **Python + P
   - Notebooks de ejemplos desarrollados: https://github.com/entrerrianas/pyconus2022
   - Desde la Facultad de Informática de La Plata (UNLP) se viene trabajando con escuelas de los diferentes niveles en propuestas que permitan incorporar contenidos de  Ciencias de la Computación a través de diferentes proyectos como uso de aplicaciones [educativas libres](https://lihuen.linti.unlp.edu.ar/index.php?title=Software_Libre_en_escuelas), [robótica](http://robots.linti.unlp.edu.ar/proyecto) para inicar en programación y proyectos de extensión para diferentes [niveles ](https://extension.info.unlp.edu.ar/). Desde el vínculo que se realizó desde la comunidad Python Argentina, hemos vinculado proyectos realizados desde La Plata con los llevados a cabo en Salta. Esta charla fue producto del trabajo conjunto e interdisplinario para su adecuación a docentes de escuelas de Nivel Secundario.
 
-**Conclusion Profesora Especialista en Didactica Liliana Hurtado: [lilianahur@hotmail.com](lilianahur@hotmail.com)**
-  - En Marzo de 2020 y en un escenario educativo signado por la pandemia global del COVID 19, fui invitada a formar parte de un equipo de trabajo innovador de enseñanza y aprendizaje en entornos virtuales.
-  - Entre los objetivos iniciales, la propuesta refería a: La optimización de las herramientas open source que favorecen la inclusión en procesos de innovación educativa de los establecimientos dedicados a la enseñanza, públicos y privados en todos los niveles educativos y la implementación de Python en un VPS con Jupyter HUB/Notebook en diferentes campos disciplinares.
-  - Mi aporte se realizó desde la pedagogía y consistió en visibilizar los aportes de esta propuesta en sus diferentes maneras de interpelar las concepciones tradicionales de enseñanza y aprendizaje, de relaciones entre enseñante y aprendiente, de lenguajes comunicacionales, de evaluación y autonomía.
-  - La caja de arena fue la metáfora con poder para sintetizar las transformaciones y esclarecer la novedad en el campo de la enseñanza y el aprendizaje mediado por Python y Jupyter HUB/Notebook.
-  - De este modo, los resultados fueron la configuración de un entorno de aprendizaje  y condición de posibilidad para la “enseñanza poderosa” de contenidos de diferentes campos disciplinares.
-  - La base de esta nueva configuración de enseñanza y aprendizaje poderosa, se nutre de visiones y convicciones que refieren al abordaje transdisciplinar, creativo, autónomo y autoregulado, COLABORATIVO, lúdico y construido en una matriz multilenguaje, centrado en un sujeto de aprendizaje deseante
+**Conclusion Especialista en Didactica:**
+* **Profesora [Liliana Hurtado](https://us.pycon.org/2022/speaker/profile/185/): lilianahur@hotmail.com**
+   - En Marzo de 2020 y en un escenario educativo signado por la pandemia global del COVID 19, fui invitada a formar parte de un equipo de trabajo innovador de enseñanza y aprendizaje en entornos virtuales.
+   - Entre los objetivos iniciales, la propuesta refería a: La optimización de las herramientas open source que favorecen la inclusión en procesos de innovación educativa de los establecimientos dedicados a la enseñanza, públicos y privados en todos los niveles educativos y la implementación de Python en un VPS con Jupyter HUB/Notebook en diferentes campos disciplinares.
+   - Mi aporte se realizó desde la pedagogía y consistió en visibilizar los aportes de esta propuesta en sus diferentes maneras de interpelar las concepciones tradicionales de enseñanza y aprendizaje, de relaciones entre enseñante y aprendiente, de lenguajes comunicacionales, de evaluación y autonomía.
+   - La caja de arena fue la metáfora con poder para sintetizar las transformaciones y esclarecer la novedad en el campo de la enseñanza y el aprendizaje mediado por Python y Jupyter HUB/Notebook.
+   - De este modo, los resultados fueron la configuración de un entorno de aprendizaje  y condición de posibilidad para la “enseñanza poderosa” de contenidos de diferentes campos disciplinares.
+   - La base de esta nueva configuración de enseñanza y aprendizaje poderosa, se nutre de visiones y convicciones que refieren al abordaje transdisciplinar, creativo, autónomo y autoregulado, COLABORATIVO, lúdico y construido en una matriz multilenguaje, centrado en un sujeto de aprendizaje deseante
 
 
-**Videos Ayuda Memoria:** para quienes esten iniciando en Jupyter Notebook y trabajar en un VPS. Gracias Enzo Juarez..!! [@enzzo19](https://github.com/enzzo19/)
+* **Videos Ayuda Memoria:** para quienes esten iniciando en Jupyter Notebook y trabajar en un VPS. Gracias Enzo Juarez..!! [@enzzo19](https://github.com/enzzo19/)
 
   - ¿Cómo puedo **Iniciar/Cerrar sesión** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/uIE-PpvS_Pw
   - ¿Cómo puedo **cambiar el idioma** por defecto en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/lq1oZHkJ7pE
@@ -59,7 +60,7 @@ Lenguaje de Programación + Entorno de Trabajo + Infraestructura == **Python + P
   - https://www.youtube.com/watch?v=L-j9vZdgAOs
   - https://eventos.python.org.ar/events/pyconar2021/
   - https://eventos.python.org.ar/events/pyconar2021/activity/478/
-  - [Sofía Martin](https://github.com/entrerrianas), [Sebastian Flores Benner](https://github.com/sebastiandres/pycon_ar), Liliana Hurtado, [Ariel Ramos](https://github.com/asnramos/pycon_ar)
+  - [Sofía Martin](https://github.com/entrerrianas), [Sebastian Flores Benner](https://github.com/sebastiandres/pycon_ar), [Liliana Hurtado](https://us.pycon.org/2022/speaker/profile/185/), [Ariel Ramos](https://github.com/asnramos/pycon_ar)
 
 * **Marzo 2021, Taller OnLine Salta, Argentina: ¿Cómo armar un VPS?** 
   - https://youtu.be/P8w0OtG2Rdw
