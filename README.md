@@ -33,7 +33,7 @@ Lenguaje de Programación + Entorno de Trabajo + Infraestructura == **Python + P
   - La base de esta nueva configuración de enseñanza y aprendizaje poderosa, se nutre de visiones y convicciones que refieren al abordaje transdisciplinar, creativo, autónomo y autoregulado, COLABORATIVO, lúdico y construido en una matriz multilenguaje, centrado en un sujeto de aprendizaje deseante
 
 
-* **Videos Ayuda Memoria:** para quienes esten iniciando en Jupyter Notebook y trabajar en un VPS. Gracias Enzo Juarez..!! [@enzzo19](https://github.com/enzzo19/)
+**Videos Ayuda Memoria:** para quienes esten iniciando en Jupyter Notebook y trabajar en un VPS. Gracias Enzo Juarez..!! [@enzzo19](https://github.com/enzzo19/)
 
   - ¿Cómo puedo **Iniciar/Cerrar sesión** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/uIE-PpvS_Pw
   - ¿Cómo puedo **cambiar el idioma** por defecto en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/lq1oZHkJ7pE
