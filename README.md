@@ -2,7 +2,7 @@
 * **Fecha y lugar**: 30 Abril 2022. [PyConUS 2022 Salt Lake City, Utah, Estados Unidos](https://us.pycon.org/2022)
 * **Link presentacion:** https://us.pycon.org/2022/schedule/presentation/10/
 * **Nivel**: Desde Principiantes  - **Contexto**: Remoto, OnLine y Presencial
-* **Disertantes**: [Sofía Martin](https://github.com/entrerrianas), [Ariel Ramos](https://github.com/asnramos), [Liliana Hurtado](https://us.pycon.org/2022/speaker/profile/185/), [Enzo Juarez](https://github.com/enzzo19/)
+* **Disertantes**: [Sofía Martin](https://github.com/entrerrianas), [Ariel Ramos](https://us.pycon.org/2022/speaker/profile/11/), [Liliana Hurtado](https://us.pycon.org/2022/speaker/profile/185/), [Enzo Juarez](https://github.com/enzzo19/)
 * **Descripción (Resumen):** 
 
   - Desde 2017 en el Norte Argentino, realizamos actividades con experiencias en tecnologia de impacto positivo para la sociedad, lo hacemos con la Comunidades [Python Norte](https://t.me/pythonnorte) y [Python Argentina](https://www.python.org.ar/). Enseñamos a los asistentes buenas practicas de uso en tecnologia y Software Open Source.<br>
