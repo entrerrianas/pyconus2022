@@ -24,6 +24,15 @@ Lenguaje de Programación + Entorno de Trabajo + Infraestructura == **Python + P
   - Notebooks de ejemplos desarrollados: https://github.com/entrerrianas/pyconus2022
   - Desde la Facultad de Informática de La Plata (UNLP) se viene trabajando con escuelas de los diferentes niveles en propuestas que permitan incorporar contenidos de  Ciencias de la Computación a través de diferentes proyectos como uso de aplicaciones [educativas libres](https://lihuen.linti.unlp.edu.ar/index.php?title=Software_Libre_en_escuelas), [robótica](http://robots.linti.unlp.edu.ar/proyecto) para inicar en programación y proyectos de extensión para diferentes [niveles ](https://extension.info.unlp.edu.ar/). Desde el vínculo que se realizó desde la comunidad Python Argentina, hemos vinculado proyectos realizados desde La Plata con los llevados a cabo en Salta. Esta charla fue producto del trabajo conjunto e interdisplinario para su adecuación a docentes de escuelas de Nivel Secundario.
 
+**Conclusion Profesora Especialista en Didactica Liliana Hurtado: [lilianahur@hotmail.com](lilianahur@hotmail.com)**
+  - En Marzo de 2020 y en un escenario educativo signado por la pandemia global del COVID 19, fui invitada a formar parte de un equipo de trabajo innovador de enseñanza y aprendizaje en entornos virtuales.
+  - Entre los objetivos iniciales, la propuesta refería a: La optimización de las herramientas open source que favorecen la inclusión en procesos de innovación educativa de los establecimientos dedicados a la enseñanza, públicos y privados en todos los niveles educativos y la implementación de Python en un VPS con Jupyter HUB/Notebook en diferentes campos disciplinares.
+  - Mi aporte se realizó desde la pedagogía y consistió en visibilizar los aportes de esta propuesta en sus diferentes maneras de interpelar las concepciones tradicionales de enseñanza y aprendizaje, de relaciones entre enseñante y aprendiente, de lenguajes comunicacionales, de evaluación y autonomía.
+  - La caja de arena fue la metáfora con poder para sintetizar las transformaciones y esclarecer la novedad en el campo de la enseñanza y el aprendizaje mediado por Python y Jupyter HUB/Notebook.
+  - De este modo, los resultados fueron la configuración de un entorno de aprendizaje  y condición de posibilidad para la “enseñanza poderosa” de contenidos de diferentes campos disciplinares.
+  - La base de esta nueva configuración de enseñanza y aprendizaje poderosa, se nutre de visiones y convicciones que refieren al abordaje transdisciplinar, creativo, autónomo y autoregulado, COLABORATIVO, lúdico y construido en una matriz multilenguaje, centrado en un sujeto de aprendizaje deseante
+
+
 * **Videos Ayuda Memoria:** para quienes esten iniciando en Jupyter Notebook y trabajar en un VPS. Gracias Enzo Juarez..!! [@enzzo19](https://github.com/enzzo19/)
 
   - ¿Cómo puedo **Iniciar/Cerrar sesión** en un **VPS con Jupyter HUB/Notebook**? https://youtu.be/uIE-PpvS_Pw
