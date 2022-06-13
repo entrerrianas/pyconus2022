@@ -1,6 +1,7 @@
 ## Charla: Python + VPS Jupyter HUB/Notebook, aprender, enseñar, investigar, trabajar de manera colaborativa, remota y presencial
 * **Fecha y lugar**: 30 Abril 2022. [PyConUS 2022 Salt Lake City, Utah, Estados Unidos](https://us.pycon.org/2022)
 * **Link presentacion:** https://us.pycon.org/2022/schedule/presentation/10/
+* **Video presentacion:** https://www.youtube.com/watch?v=sq4t8HfIPec&list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl&index=95
 * **Nivel**: Desde Principiantes  - **Contexto**: Remoto, OnLine y Presencial
 * **Disertantes**: [Sofía Martin](https://github.com/entrerrianas), [Ariel Ramos](https://us.pycon.org/2022/speaker/profile/11/), [Liliana Hurtado](https://us.pycon.org/2022/speaker/profile/185/), [Enzo Juarez](https://github.com/enzzo19/)
 * **Descripción (Resumen):** 
